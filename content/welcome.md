@@ -1,5 +1,5 @@
 ---
-title: Welcome to empress-blog
+title: Welcome to Lyle's Blog!
 image: /images/welcome.jpg
 imageMeta:
   attribution:
